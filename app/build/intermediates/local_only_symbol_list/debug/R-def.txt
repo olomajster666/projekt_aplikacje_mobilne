@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color cadet_grey
+color chinese_violet
+color dark_purple
+color eggplant
+color purple
+color slate_grey
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnDodajzadanie
+id btnUsunzadanie
+id cbDone
+id etDodajzadanie
+id rvListaZadan
+id tvTytułzadania
+layout activity_main
+layout itemzadanie
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Projekt
+xml backup_rules
+xml data_extraction_rules

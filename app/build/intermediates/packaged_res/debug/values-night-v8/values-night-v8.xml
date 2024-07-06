@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Projekt" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/eggplant</item>
+        <item name="colorOnPrimary">@color/dark_purple</item>
+        
+        <item name="colorSecondary">@color/chinese_violet</item>
+        <item name="colorSecondaryVariant">@color/cadet_grey</item>
+        <item name="colorOnSecondary">@color/slate_grey</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

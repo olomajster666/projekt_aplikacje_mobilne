@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cadet_grey">#77A0A9</color>
+    <color name="chinese_violet">#6C596E</color>
+    <color name="dark_purple">#32021F</color>
+    <color name="eggplant">#4B2E39</color>
+    <color name="purple">#FFBB86FC</color>
+    <color name="slate_grey">#6F7D8C</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">projekt</string>
+    <style name="Theme.Projekt" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/eggplant</item>
+        <item name="colorPrimaryVariant">@color/dark_purple</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/chinese_violet</item>
+        <item name="colorSecondaryVariant">@color/cadet_grey</item>
+        <item name="colorOnSecondary">@color/slate_grey</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

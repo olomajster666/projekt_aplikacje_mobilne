@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.projekt.app-mergeDebugResources-33:/layout/itemzadanie.xml",
+        "source": "com.example.projekt.app-main-36:/layout/itemzadanie.xml"
+    },
+    {
+        "merged": "com.example.projekt.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.example.projekt.app-main-36:/layout/activity_main.xml"
+    }
+]

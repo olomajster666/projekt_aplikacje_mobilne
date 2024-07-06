@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#FFBB86FC</color>
+    <color name="eggplant">#4B2E39</color>
+    <color name="dark_purple">#32021F</color>
+    <color name="chinese_violet">#6C596E</color>
+    <color name="cadet_grey">#77A0A9</color>
+    <color name="slate_grey">#6F7D8C</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
